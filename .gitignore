@@ -1,0 +1,5 @@
+OPENAI_API_KEY
+config.py
+bot/
+**/idea/
+**/__pycache__
