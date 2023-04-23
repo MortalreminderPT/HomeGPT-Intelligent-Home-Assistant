@@ -1,6 +1,6 @@
 OPENAI_API_KEY
 config.py
 bot/
-**/idea/
+**/.idea/
 **/__pycache__
 run.sh
