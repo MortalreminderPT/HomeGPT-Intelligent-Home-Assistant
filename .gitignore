@@ -3,3 +3,4 @@ config.py
 bot/
 **/idea/
 **/__pycache__
+run.sh
