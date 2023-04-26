@@ -4,3 +4,4 @@ bot/
 .idea/
 **/__pycache__
 run.sh
+gunicorn.conf

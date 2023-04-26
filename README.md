@@ -65,4 +65,4 @@ HomeGPT: (The air-conditioner has been opened)
 
 ## License
 
-Simple-Worker-Learner is released under the MIT License. See the `LICENSE` file for more details.
+HomeGPT is released under the MIT License. See the `LICENSE` file for more details.

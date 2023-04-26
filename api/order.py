@@ -68,7 +68,7 @@ class OrderApi(Resource):
 
         prompt=generate_prompt(text=text_dict['text'])
         reply=get_reply(prompt=prompt,
-                        mask=True,
+                        mask=False,
                         mask_reply=mask_reply)
         print(reply)
         update_state=match_json(text=reply)
